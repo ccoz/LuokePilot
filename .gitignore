@@ -25,5 +25,3 @@ user_prefs.json
 # PyInstaller
 dist/
 build/
-
-uv.lock
